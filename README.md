@@ -14,6 +14,7 @@
 | Authentication-Service | 7 | `backend/authentication-service` |
 | Product-explorer-api | 3 | `backend/product-explorer-api` |
 | SEO-with-AI | 4 | `seo-notes/seo-with-ai` |
+| Beginners-Portfolio | 0 | `beginners-portfolio` |
 | portfolio-assignment-using-html | 3 | `portfolio-practice/portfolio-assignment-using-html` |
 | Mintlify-Clone-Cohort-2026 | 3 | `clones/mintlify-clone` |
 | Cusror-Clone-Cohort-2026 | 7 | `clones/cursor-clone` |
