@@ -1,0 +1,29 @@
+﻿# Get Random Users Data Through FreeAPI
+Welcome to the Get Random Users API project! This is a simple React application built with Vite, designed to help students learn how to fetch and display data from external APIs.
+
+## 🎯 Project Overview
+In this project, you will learn how to:
+- Make API calls using Fetch or Axios in a React component.
+- Manage component state using the useState hook.
+- Handle side effects and API requests on component mount using useEffect.
+- Render dynamic lists of users in the UI.
+
+## 🚀 Getting Started
+To get this project running on your local machine:
+
+1. **Install Dependencies**
+   Run the following command in your terminal:
+   `bash
+   npm install
+   `
+2. **Start the Development Server**
+   `bash
+   npm run dev
+   `
+3. Open the provided http://localhost:5173 link in your browser.
+
+## 📁 Folder Structure
+- src/App.jsx: The main component where state is managed and UI is rendered.
+- src/main.jsx: The entry point that mounts the React application.
+
+Happy Coding! 💻 Set up your components, play with the API responses, and build an awesome UI!

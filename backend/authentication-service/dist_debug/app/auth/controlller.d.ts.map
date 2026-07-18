@@ -1,0 +1,1 @@
+{"version":3,"file":"controlller.d.ts","sourceRoot":"","sources":["../../../src/app/auth/controlller.ts"],"names":[],"mappings":"AAAA,OAAO,EAAE,OAAO,EAAE,QAAQ,EAAE,MAAM,SAAS,CAAA;AAO3C,cAAM,yBAAyB;IAEd,YAAY,CAAC,GAAG,EAAE,OAAO,EAAE,GAAG,EAAE,QAAQ;IAyBxC,YAAY,CAAC,GAAG,EAAE,OAAO,EAAE,GAAG,EAAE,QAAQ;CAexD;AAGD,eAAe,yBAAyB,CAAC"}
