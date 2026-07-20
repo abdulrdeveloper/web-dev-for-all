@@ -1,5 +1,7 @@
 # Abdul Rahman Portfolio
 
+Live: https://abdulr-portfolio.netlify.app
+
 This is a simple personal portfolio website built with HTML and CSS. It is made to show your work, services, resume, and contact details in a clean and professional way.
 
 ## What is included
