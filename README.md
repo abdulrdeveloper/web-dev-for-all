@@ -1,6 +1,6 @@
 # web-dev-for-all
 
-## Archived repos moved here — stars/history preserved on original repos
+## All Learning Repos & Resources and Mini Projects Moved Here
 
 | Original repo | Stars | New folder path |
 | --- | ---: | --- |
