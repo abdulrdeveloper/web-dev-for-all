@@ -2,6 +2,8 @@
 
 ## All Learning Repos & Resources and Mini Projects Moved Here
 
+This repository has been cleaned up, and the README has been refreshed with the updated folder structure.
+
 | Original repo | Stars | New folder path |
 | --- | ---: | --- |
 | Chai-aur-React | 18 | `react/chai-aur-react` |
@@ -9,15 +11,15 @@
 | react-refresher-M | 3 | `react/react-refresher-m` |
 | Total-TypeScript | 11 | `typescript/total-typescript` |
 | Tailwind-Complete-Guide | 5 | `css-tailwind/tailwind-complete-guide` |
-| Learn-SQL | 13 | `sql-database/learn-sql` |
+| Learn-SQL | 13 | `learn-sql` |
 | cohort-2-Git-GitHub | 7 | `git-github/cohort-2-git-github` |
 | Authentication-Service | 7 | `backend/authentication-service` |
 | Product-explorer-api | 3 | `backend/product-explorer-api` |
-| SEO-with-AI | 4 | `seo-notes/seo-with-ai` |
+| SEO-with-AI | 4 | `seo-with-ai` |
 | Beginners-Portfolio | 0 | `beginners-portfolio` |
 | portfolio-assignment-using-html | 3 | `portfolio-practice/portfolio-assignment-using-html` |
 | Mintlify-Clone-Cohort-2026 | 3 | `clones/mintlify-clone` |
-| Cusror-Clone-Cohort-2026 | 7 | `clones/cursor-clone` |
+| Cursor-Clone-Cohort-2026 | 7 | `clones/cursor-clone` |
 | TicTacToe | 13 | `mini-projects/tic-tac-toe` |
 | Todo-List-App-Project | 10 | `mini-projects/todo-list-app` |
 | Color-Palette-Generator | 8 | `mini-projects/color-palette-generator` |
