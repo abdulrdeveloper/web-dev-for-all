@@ -374,10 +374,10 @@ ROLLBACK;
 
 
 [Real World Database Collections ↗
-](https://github.com/abdulrdeveloper/Learn-SQL/tree/main/Real%20World%20DBs%20Collection)
+](https://github.com/abdulrdeveloper/web-dev-for-all/tree/main/learn-sql/SQL/SQL%20Code)
 
 ---
 
-All the code from this blog is in my GitHub repo: [github.com/abdulrdeveloper/Learn-SQL](https://github.com/abdulrdeveloper/Learn-SQL)
+All the code from this blog is in my GitHub repo: [github.com/abdulrdeveloper/Learn-SQL](https://github.com/abdulrdeveloper/web-dev-for-all/Learn-SQL)
 
 ---
